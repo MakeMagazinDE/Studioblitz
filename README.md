@@ -4,9 +4,9 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Studioblitz
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### 
 
 Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
 
