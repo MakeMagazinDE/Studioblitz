@@ -12,4 +12,4 @@ Wer (wie wir) oft Produkte oder Testaufbauten zu fotografieren hat, benötigt ei
 
 ![Picture](https://github.com/MakeMagazinDE/Studioblitz/blob/master/blitzgen_strobo_k.JPG) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/21 ab Seite 104](https://www.heise.de/select/make/2021/4).
