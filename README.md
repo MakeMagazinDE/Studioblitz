@@ -14,7 +14,7 @@ Wer (wie wir) oft Produkte oder Testaufbauten zu fotografieren hat, benötigt ei
 
 ### Dateien:
 
-* Blitzdings_01_gerber.zip - Gerber-Dateien für Lade- und Zündelektronik
+* Blitzdings_01_gerber.zip - Gerber-Dateien für Lade- und Zündelektronik zur Platinenfertigung
 * Blitzdings_simple_01 - Schematic.pdf - Schaltplan als PDF
 * Blitzdings_01_bestueckung.pdf - Bestückungsplan als PDF
 * Blitzdings_simple_01.sch/.brd - Layout für EasyPC ab Version 22
