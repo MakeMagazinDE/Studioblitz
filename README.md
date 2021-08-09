@@ -19,5 +19,9 @@ Wer (wie wir) oft Produkte oder Testaufbauten zu fotografieren hat, benötigt ei
 * Blitzdings_01_bestueckung.pdf - Bestückungsplan als PDF
 * Blitzdings_simple_01.sch/.brd - Layout für EasyPC ab Version 22
 
+* CapBank_schmal_02_gerber.zip - Gerber-Dateien für Kondensatorbank 300-600Ws zur Platinenfertigung
+* CapBank_schmal_02_bestueckung.pdf - Bestückungsplan als PDF
+* CapBank_schmal_02 - Schematic.pdf - Schaltplan als PDF
+
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/21 ab Seite 104](https://www.heise.de/select/make/2021/4).
 
